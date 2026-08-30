@@ -108,8 +108,8 @@ smartParkingLot/
     └── CardPayment.java          # Payment Strategy
 
 ## Author
-- **Name:** Sudenaz KAYA
-- **University:** Alparslan Türkeş Science and Technology University
-- **Department:** Computer Engineering
-- **LinkedIn:** [linkedin.com/in/SudenazKaya](https://linkedin.com/in/SudenazKaya)
-- **GitHub:** [github.com/sudenazky](https://github.com/sudenazky)
+- **Name: Sudenaz KAYA**
+- **University: Alparslan Türkeş Science and Technology University**
+- **Department: Computer Engineering**
+- **LinkedIn: [linkedin.com/in/sudenazkaya](https://linkedin.com/in/SudenazKaya)**
+- **GitHub: [github.com/sudenazky](https://github.com/sudenazky)**
