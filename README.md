@@ -112,5 +112,5 @@ smartParkingLot/
 - **Name:** Sudenaz KAYA
 - **University:** Alparslan Türkeş Science and Technology University
 - **Department:** Computer Engineering
-- **LinkedIn:** [Sudenaz KAYA](https://www.linkedin.com/in/sudenazkaya)
+- **LinkedIn:** [Sudenaz KAYA](https://www.linkedin.com/in/sudenaz-kaya-593b973b3)
 - **GitHub:** [sudenazky](https://github.com/sudenazky)
